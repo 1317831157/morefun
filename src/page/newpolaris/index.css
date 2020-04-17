@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+.ant-layout-header{
+    background-color: aqua;
+}
+.ant-layout-sider-dark{
+    background-color: beige;
+}
